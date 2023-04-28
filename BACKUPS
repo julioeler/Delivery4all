@@ -1,0 +1,10 @@
+
+<View style={styles.container}>
+
+  <Image style={styles.logo} source={require('./assets/icons8-foods-64.png')} />
+
+  <Text style={styles.title}>Fake Ifood</Text>
+  <Text style={styles.subtitle}>Melhor que o original</Text>
+  <Button style={styles.button} title="FAZER PEDIDO" onPress={('')}
+/>
+</View>
